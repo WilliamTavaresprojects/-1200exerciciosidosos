@@ -1,0 +1,6 @@
+{
+  "name": "+1200 Atividades e Exercícios para Idosos",
+  "description": "Material completo com mais de 1200 atividades e exercícios adaptados para idosos, organizados por nível e objetivo para fisioterapeutas, educadores físicos e cuidadores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
